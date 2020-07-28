@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	front-family: sans-serif;
+	background-image: url(../bg.jpg);
+	background-size: cover;
+	
+	}
+
+
+
+
+
+.btn{
+	width: 100%;
+	background: none;
+	position: absolute;
+ 	top:50%; 	
+ 	left: 50%;
+    transform:translate(-50%,-50%);
+
+	color: blue;
+	padding: 5px;
+	front-size: 18px;
+	cursor: pointer;
+}
+btn{
+	width: 100%;
+	background: none;
+	position: absolute;
+ 	top:50%; 	
+ 	left: 50%;
+    transform:translate(-50%,-50%);
+
+	color: blue;
+	padding: 5px;
+	front-size: 18px;
+	cursor: pointer;
+}
+
